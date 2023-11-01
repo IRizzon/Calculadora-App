@@ -1,2 +1,2 @@
-# Calculadora App
- Aplicação Mobile feita em Java
+# Calculator
+ Aplicação mobile feita em Java
